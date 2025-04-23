@@ -1,0 +1,32 @@
+MIT License
+Copyright (c) 2023 Your Name
+Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+---
+
+Apache License 2.0
+Copyright 2023 Apache Software Foundation
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+
+---
+
+GNU General Public License (GPL) v3
+Copyright (C) 2023 Free Software Foundation, Inc.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+---
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+Copyright 2023 Your Name
+You are free to share, copy, distribute, and transmit the work, provided you attribute it properly.
+
+---
+
+End User License Agreement (EULA)
+Copyright (C) 2023 Your Company
+By using this software, you agree to the terms outlined in this EULA, which include restrictions on redistribution and modifications.
+

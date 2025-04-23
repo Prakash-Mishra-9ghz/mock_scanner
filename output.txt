@@ -1,0 +1,8 @@
+Line 1: MIT License found.
+Terms: Must include a copy of the MIT License and copyright notice.
+Line 7: Apache License 2.0 found.
+Terms: redistribution must provide a copy of this license and state modifications.
+
+Summary:
+MIT License - 1 match(es)
+Apache License 2.0 - 1 match(es)
