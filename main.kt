@@ -1,6 +1,6 @@
 import java.io.File
 import java.awt.Desktop
-import java.nio.file.Paths
+
 
 fun scanfile(filePath: String): String {
     val file = File(filePath)
